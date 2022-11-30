@@ -1,13 +1,7 @@
-Crimson
-Orange
-Green
-Cyan
-Yellow
-Ivory
-Khaki
-Coral
-Silver
-Fuchsia
-Gray
-Brown
-Red
+diff --git a/class.txt b/class.txt
+index d28bb66..e69de29 100644
+--- a/class.txt
++++ b/class.txt
+@@ -1 +0,0 @@
+-ciao
+\ No newline at end of file
